@@ -47,7 +47,7 @@ This is an evolving collection of examples as I progress through different Angul
 - GitHub: [richis87](https://github.com/richis87)
 - Telegram: [@Richhis](https://t.me/Richhis)
 - LinkedIn: [Richard ZS](https://www.linkedin.com/in/richard-alberto-zúñiga-segura-392394185)
-- 
+  
 ---
 
 ## 📝 License
